@@ -1,8 +1,8 @@
 # PreventingLoggingOut
-This simple software makes a little mouse movement and a left click each 10 seconds (the program will start moving the mouse around the actual coursor position). I used it to avoid logging out from a Virtual Machine but can be used for more other aspects like in gaming.
+This simple software makes a little mouse movement each 10 seconds (the program will start moving the mouse around the actual coursor position). I used it to avoid logging out from a Virtual Machine but can be used for more other aspects like in gaming.
 
-The MouseNeverStopAndClickpy.py is the python script where the pyinput package is used.
-The MouseNeverStopAndclickpy.exe is the windows executable fiel created with pyinstaller.
+The MouseNeverStop.py is the python script where the pyinput package is used.
+The MouseNeverStop.exe is the windows executable fiel created with pyinstaller.
 
 
 =========================================================================== READ THIS ==========================================================================================
